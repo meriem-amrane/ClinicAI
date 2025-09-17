@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+*.env
+
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+data/
+*.csv
+
