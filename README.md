@@ -2,7 +2,7 @@
 
 **Author:** Meriem Amrane  
 **Project Type:** Machine Learning / Anomaly Detection / Python  
-**Status:** In Development / Complete  
+**Status:** Complete  
 
 ## Project Overview
 This project focuses on **anomaly detection** using Python and machine learning. It demonstrates how to explore data, build, and deploy a model capable of identifying anomalies in datasets. The repository also includes a simple **web application** for real-time predictions.
@@ -15,3 +15,11 @@ This project focuses on **anomaly detection** using Python and machine learning.
 - **Dependencies:** All required packages listed in `requirements.txt`.  
 
 ## Project Structure
+
+.gitattributes # Git LFS configuration for large files
+.gitignore # Files and directories to ignore
+Data_Exploration.ipynb # Jupyter notebook for data exploration
+anomaly_model.py # Anomaly detection model script
+app.py # Flask app for model deployment
+requirements.txt # Python dependencies
+README.md # Project documentation
